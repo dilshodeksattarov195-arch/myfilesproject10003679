@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvrocess",
+        "uuid": 31076513,
+        "checksum": "n1o05g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
